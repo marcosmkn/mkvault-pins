@@ -7,7 +7,8 @@
   "pdesc": "Dolce Gusto Genio S Plus ou Genio S Basic? Veja a ficha lado a lado, o que as duas têm em comum, onde cada uma ganha e qual escolher para o seu perfil.",
   "link": "https://viciadoemcafe.com.br/genio-s-plus-ou-genio-s-basic/",
   "board": "Café em Casa: Receitas e Cafeteiras",
-  "status": "pendente"
+  "status": "publicado",
+  "data": "2026-11-05"
  },
  {
   "id": "cafe-ranking-expresso",
@@ -57,7 +58,8 @@
   "pdesc": "Tabela de BTUs por m²: de 10 a 40 m², com a faixa inicial de 600 a 800 BTU/h por metro quadrado e os ajustes por sol, pessoas e eletrônicos.",
   "link": "https://calculabtu.com.br/blog/quantos-btus-preciso-guia-completo/",
   "board": "Ar-Condicionado: Dicas, BTUs e Economia",
-  "status": "pendente"
+  "status": "publicado",
+  "data": "2026-11-05"
  },
  {
   "id": "tv-melhor-55",
@@ -87,7 +89,8 @@
   "pdesc": "Tabela de tamanho de TV pela distância do sofá, de 1 a 4 metros: quantas polegadas escolher para a sua sala e quando vale ir maior ou menor.",
   "link": "https://escolhatv.com.br/tamanho-ideal-de-tv-pela-distancia-do-sofa/",
   "board": "TVs e Decoração de Sala",
-  "status": "pendente"
+  "status": "pendente",
+  "obs": "bloqueado como possível spam em 05/11 (tentar de novo depois)"
  },
  {
   "id": "tech-placa-de-video",
@@ -107,7 +110,8 @@
   "pdesc": "Ranking dos melhores headsets gamer: HyperX Cloud III S Wireless, HyperX Cloud III, Fallen Morcego Pro, Fallen Pantera e Mchose V9 Pro. Com fio ou sem fio, veja como escolher.",
   "link": "https://marcolizando.com.br/melhores-headsets-gamer/",
   "board": "Setup, Gadgets e Tecnologia",
-  "status": "pendente"
+  "status": "pendente",
+  "obs": "bloqueado como possível spam em 05/11 (tentar de novo depois)"
  },
  {
   "id": "tech-cabos-setup",

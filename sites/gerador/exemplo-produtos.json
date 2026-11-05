@@ -1,0 +1,250 @@
+{
+ "cafe": [
+  {
+   "n": 1,
+   "name": "Philips Walita Série 1200 EP1220",
+   "img": "https://http2.mlstatic.com/D_NQ_NP_968593-MLA99502704490_112025-O.webp",
+   "file": "img/0252a771ed.webp"
+  },
+  {
+   "n": 2,
+   "name": "Oster PrimaLatte Touch",
+   "img": "https://http2.mlstatic.com/D_NQ_NP_711609-MLA99506531768_112025-O.webp",
+   "file": "img/a9a46f5f5d.webp"
+  },
+  {
+   "n": 3,
+   "name": "Oster Double Digital",
+   "img": "https://http2.mlstatic.com/D_NQ_NP_726381-MLA99496729398_112025-O.webp",
+   "file": "img/04ba38bb55.webp"
+  },
+  {
+   "n": 4,
+   "name": "Oster Xpert Perfect Brew",
+   "img": "https://http2.mlstatic.com/D_NQ_NP_768773-MLA99958991879_112025-O.webp",
+   "file": "img/579cd7d962.webp"
+  },
+  {
+   "n": 5,
+   "name": "Krups Coffee Crush Experience",
+   "img": "https://http2.mlstatic.com/D_NQ_NP_883087-MLA113661340327_062026-O.webp",
+   "file": "img/c8ad953fad.webp"
+  },
+  {
+   "n": 6,
+   "name": "Mondial Dolce Latte CCL-01",
+   "img": "https://http2.mlstatic.com/D_NQ_NP_604273-MLA99531166620_122025-O.webp",
+   "file": "img/c41cdcdb51.webp"
+  }
+ ],
+ "btu": [
+  {
+   "n": 1,
+   "name": "Samsung WindFree AI Pro Inverter 12.000 BTUs Quente e Frio",
+   "img": "https://http2.mlstatic.com/D_NQ_NP_672600-MLA108727453384_032026-O.webp",
+   "file": "img/42371317de.webp"
+  },
+  {
+   "n": 2,
+   "name": "Samsung WindFree Inverter 12.000 BTUs Quente e Frio",
+   "img": "https://http2.mlstatic.com/D_NQ_NP_715471-MLB116383440187_082026-O.webp",
+   "file": "img/30a28ec621.webp"
+  },
+  {
+   "n": 3,
+   "name": "Samsung WindFree AI Inverter 12.000 BTUs Frio",
+   "img": "https://m.media-amazon.com/images/I/61SqDV4ba2L._AC_SL300_.jpg",
+   "file": "img/c344526719.jpg"
+  },
+  {
+   "n": 4,
+   "name": "LG Dual Inverter Voice +AI 12.000 BTUs Quente e Frio",
+   "img": "https://http2.mlstatic.com/D_NQ_NP_871396-MLA108125991029_032026-O.webp",
+   "file": "img/8f530656e4.webp"
+  },
+  {
+   "n": 5,
+   "name": "LG Dual Inverter AI Voice 12.000 BTUs Quente/Frio",
+   "img": "https://http2.mlstatic.com/D_NQ_NP_871396-MLA108125991029_032026-O.webp",
+   "file": "img/8f530656e4.webp"
+  },
+  {
+   "n": 6,
+   "name": "Samsung WindFree AI Pro Inverter 12.000 BTUs Frio",
+   "img": "https://http2.mlstatic.com/D_NQ_NP_749450-MLA114078238102_072026-O.webp",
+   "file": "img/2b173d9811.webp"
+  }
+ ],
+ "tv": [
+  {
+   "n": 1,
+   "name": "Philips 50\" 4K 50PUG7300",
+   "img": "https://m.media-amazon.com/images/I/71AcJsiJuVL._AC_SL500_.jpg",
+   "file": "img/485bc26aa5.jpg"
+  },
+  {
+   "n": 2,
+   "name": "Philco 50\" 4K Roku P50CRB",
+   "img": "https://m.media-amazon.com/images/I/81zArE8q+XL._AC_SL500_.jpg",
+   "file": "img/75eba304e2.jpg"
+  },
+  {
+   "n": 3,
+   "name": "Hisense 50\" 4K 50A6NV",
+   "img": "https://m.media-amazon.com/images/I/71tSUiQFmBL._AC_SL500_.jpg",
+   "file": "img/d9f6ad6fb4.jpg"
+  },
+  {
+   "n": 4,
+   "name": "Hisense 43\" Hi-QLED Q6",
+   "img": "https://escolhatv.com.br/assets/tv/hisense-43-q6qvv.webp",
+   "file": "img/2e9c9a437e.webp"
+  },
+  {
+   "n": 5,
+   "name": "LG 43\" 4K NANO 43UN85C",
+   "img": "https://m.media-amazon.com/images/I/71JvlwEntGL._AC_SL500_.jpg",
+   "file": "img/0bd8cc8b6f.jpg"
+  },
+  {
+   "n": 6,
+   "name": "TCL 43\" QLED S5K",
+   "img": "https://m.media-amazon.com/images/I/81yyXps2lKL._AC_SL500_.jpg",
+   "file": "img/71887f568c.jpg"
+  }
+ ],
+ "tech": [
+  {
+   "n": 1,
+   "name": "HyperX Cloud III S Wireless",
+   "img": "https://http2.mlstatic.com/D_NQ_NP_814555-MLA91359274069_082025-O.webp",
+   "file": "img/05b8b99978.webp"
+  },
+  {
+   "n": 2,
+   "name": "HyperX Cloud III (com fio)",
+   "img": "https://http2.mlstatic.com/D_NQ_NP_938067-MLA95705632870_102025-O.webp",
+   "file": "img/311b452e06.webp"
+  },
+  {
+   "n": 3,
+   "name": "Headset Gamer Fallen Morcego Pro",
+   "img": "https://http2.mlstatic.com/D_NQ_NP_870724-MLA81633713501_122024-O.webp",
+   "file": "img/186d6ab149.webp"
+  },
+  {
+   "n": 4,
+   "name": "Headset Fallen Pantera Eco Light sem fio",
+   "img": "https://http2.mlstatic.com/D_NQ_NP_629933-MLA100952608773_122025-O.webp",
+   "file": "img/4cc2145204.webp"
+  },
+  {
+   "n": 5,
+   "name": "Headset Mchose V9 Pro sem fio",
+   "img": "https://http2.mlstatic.com/D_NQ_NP_863097-MLA88517494038_072025-O.webp",
+   "file": "img/fc5d0b1d04.webp"
+  },
+  {
+   "n": 6,
+   "name": "Headset Gamer Havit H2002c+u",
+   "img": "https://http2.mlstatic.com/D_NQ_NP_795861-MLA99998895275_112025-O.webp",
+   "file": "img/3ff1a70411.webp"
+  }
+ ],
+ "tv55": [
+  {
+   "n": 1,
+   "name": "Philco 55\" 4K Roku P55CRA",
+   "img": "https://m.media-amazon.com/images/I/81-q4o9lUvL._AC_SL500_.jpg",
+   "file": "img/aea87db3dc.jpg"
+  },
+  {
+   "n": 2,
+   "name": "LG 55\" 4K UHD 55UA85",
+   "img": "https://m.media-amazon.com/images/I/61RGkr3wqEL._AC_SL500_.jpg",
+   "file": "img/09f3a2bb28.jpg"
+  },
+  {
+   "n": 3,
+   "name": "Samsung 55\" QLED 4K Q7F",
+   "img": "https://m.media-amazon.com/images/I/81JGZqS1yKL._AC_SL500_.jpg",
+   "file": "img/d16935403a.jpg"
+  },
+  {
+   "n": 4,
+   "name": "Samsung 55\" Mini LED M75H",
+   "img": "https://m.media-amazon.com/images/I/619zHmZFrkL._AC_SL500_.jpg",
+   "file": "img/35244dbde5.jpg"
+  },
+  {
+   "n": 5,
+   "name": "TCL 55\" QLED P8K",
+   "img": "https://m.media-amazon.com/images/I/616WEfPh9RL._AC_SL500_.jpg",
+   "file": "img/c4f22e7c6b.jpg"
+  },
+  {
+   "n": 6,
+   "name": "TCL 55\" QD-Mini LED C6K",
+   "img": "https://m.media-amazon.com/images/I/911eIe88TOL._AC_SL500_.jpg",
+   "file": "img/ad61226442.jpg"
+  }
+ ],
+ "gpu": [
+  {
+   "n": 1,
+   "name": "PowerColor Radeon RX 9060 XT Reaper 16 GB",
+   "img": "https://http2.mlstatic.com/D_NQ_NP_945424-MLA86954553079_062025-O.webp",
+   "file": "img/036f2a4742.webp"
+  },
+  {
+   "n": 2,
+   "name": "XFX Radeon RX 7600 SWFT 210 8 GB",
+   "img": "https://http2.mlstatic.com/D_NQ_NP_929807-MLA100002831785_112025-O.webp",
+   "file": "img/bd590b1e81.webp"
+  },
+  {
+   "n": 3,
+   "name": "ASRock RX 9070 XT Steel Legend 16 GB",
+   "img": "https://http2.mlstatic.com/D_NQ_NP_736903-MLA99484759520_112025-O.webp",
+   "file": "img/608bbe590b.webp"
+  },
+  {
+   "n": 4,
+   "name": "MSI RTX 5060 Shadow 2X OC 8 GB",
+   "img": "https://http2.mlstatic.com/D_NQ_NP_901198-MLA99972929477_112025-O.webp",
+   "file": "img/b94068c685.webp"
+  },
+  {
+   "n": 5,
+   "name": "Gigabyte RTX 5060 Ti Windforce 2X 8 GB",
+   "img": "https://http2.mlstatic.com/D_NQ_NP_615489-MLA99581966728_122025-O.webp",
+   "file": "img/6c7f980831.webp"
+  },
+  {
+   "n": 6,
+   "name": "PCYES Radeon RX 7600 XT 16 GB",
+   "img": "https://http2.mlstatic.com/D_NQ_NP_670696-MLA100008908463_122025-O.webp",
+   "file": "img/cc906e5eca.webp"
+  }
+ ],
+ "genio": [
+  {
+   "n": 1,
+   "name": "Genio S",
+   "img": "https://http2.mlstatic.com/D_NQ_NP_894831-MLB118001814345_092026-O.webp",
+   "file": "img/807819c4c4.webp"
+  },
+  {
+   "n": 2,
+   "name": "Genio S",
+   "img": "https://http2.mlstatic.com/D_NQ_NP_626577-MLA99520084810_112025-O.webp",
+   "file": "img/da12a3cefd.webp"
+  }
+ ],
+ "btu_hero": [
+  {
+   "img": "https://http2.mlstatic.com/D_NQ_NP_898792-MLA99965035771_112025-O.webp",
+   "file": "img/feb19e3fac.webp"
+  }
+ ]
+}

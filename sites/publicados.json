@@ -1,0 +1,122 @@
+[
+ {
+  "id": "cafe-genio-s",
+  "site": "cafe",
+  "layout": "foto",
+  "ptitle": "Genio S Plus ou Genio S Basic: diferenças e qual comprar",
+  "pdesc": "Dolce Gusto Genio S Plus ou Genio S Basic? Veja a ficha lado a lado, o que as duas têm em comum, onde cada uma ganha e qual escolher para o seu perfil.",
+  "link": "https://viciadoemcafe.com.br/genio-s-plus-ou-genio-s-basic/",
+  "board": "Café em Casa: Receitas e Cafeteiras",
+  "status": "pendente"
+ },
+ {
+  "id": "cafe-ranking-expresso",
+  "site": "cafe",
+  "layout": "lista",
+  "ptitle": "As melhores cafeteiras expresso e superautomáticas para casa",
+  "pdesc": "Ranking das melhores cafeteiras expresso para casa: Philips Walita EP1220, Oster PrimaLatte Touch, Oster Double Digital, Oster Xpert e Krups. Veja qual escolher para o seu caso.",
+  "link": "https://viciadoemcafe.com.br/ranking-melhores-cafeteiras-expresso/",
+  "board": "Café em Casa: Receitas e Cafeteiras",
+  "status": "pendente"
+ },
+ {
+  "id": "cafe-coado-perfeito",
+  "site": "cafe",
+  "layout": "dica",
+  "ptitle": "Como fazer café coado perfeito: proporção, água e tempo",
+  "pdesc": "Passo a passo do café coado perfeito: proporção de 1:15 a 1:17, 20 g de café para 300 ml, água entre 90 e 96 °C e 3 a 4 minutos de extração. Salve para não esquecer.",
+  "link": "https://viciadoemcafe.com.br/como-fazer-cafe-coado-perfeito/",
+  "board": "Café em Casa: Receitas e Cafeteiras",
+  "status": "pendente"
+ },
+ {
+  "id": "btu-quantos-btus",
+  "site": "btu",
+  "layout": "foto",
+  "ptitle": "Calculadora de BTU: quantos BTUs seu ar-condicionado precisa",
+  "pdesc": "Descubra quantos BTUs o seu ar-condicionado precisa pelo tamanho do ambiente, incidência de sol e número de pessoas, e quanto ele vai gastar de energia.",
+  "link": "https://calculabtu.com.br/",
+  "board": "Ar-Condicionado: Dicas, BTUs e Economia",
+  "status": "pendente"
+ },
+ {
+  "id": "btu-ranking-12000",
+  "site": "btu",
+  "layout": "lista",
+  "ptitle": "Os melhores ar-condicionados de 12.000 BTUs",
+  "pdesc": "Ranking dos melhores ar-condicionados de 12.000 BTUs: Samsung WindFree, LG Dual Inverter e outros modelos inverter, com comparativo rápido antes de comprar.",
+  "link": "https://calculabtu.com.br/blog/melhores-ar-condicionados-12000-btus/",
+  "board": "Ar-Condicionado: Dicas, BTUs e Economia",
+  "status": "pendente"
+ },
+ {
+  "id": "btu-tabela-m2",
+  "site": "btu",
+  "layout": "dica",
+  "ptitle": "Quantos BTUs preciso? Tabela por metro quadrado",
+  "pdesc": "Tabela de BTUs por m²: de 10 a 40 m², com a faixa inicial de 600 a 800 BTU/h por metro quadrado e os ajustes por sol, pessoas e eletrônicos.",
+  "link": "https://calculabtu.com.br/blog/quantos-btus-preciso-guia-completo/",
+  "board": "Ar-Condicionado: Dicas, BTUs e Economia",
+  "status": "pendente"
+ },
+ {
+  "id": "tv-melhor-55",
+  "site": "tv",
+  "layout": "foto",
+  "ptitle": "Melhor TV de 55 polegadas em 2026: 8 opções por perfil",
+  "pdesc": "Ranking das melhores TVs de 55 polegadas de 2026: Philco Roku, LG UHD, Samsung QLED e Mini LED, TCL QLED e QD-Mini LED. Veja qual combina com o seu uso.",
+  "link": "https://escolhatv.com.br/melhor-tv-de-55-polegadas/",
+  "board": "TVs e Decoração de Sala",
+  "status": "pendente"
+ },
+ {
+  "id": "tv-ranking-ate-2000",
+  "site": "tv",
+  "layout": "lista",
+  "ptitle": "Melhores TVs até R$ 2.000 em 2026: opções 4K e QLED",
+  "pdesc": "As melhores TVs até R$ 2.000 em 2026: Philips 50\" 4K, Philco Roku, Hisense 4K e Hi-QLED e LG NANO. Veja o que esperar dessa faixa e qual escolher.",
+  "link": "https://escolhatv.com.br/melhores-tvs-ate-2000/",
+  "board": "TVs e Decoração de Sala",
+  "status": "pendente"
+ },
+ {
+  "id": "tv-distancia-sofa",
+  "site": "tv",
+  "layout": "dica",
+  "ptitle": "Tamanho ideal de TV pela distância do sofá (tabela)",
+  "pdesc": "Tabela de tamanho de TV pela distância do sofá, de 1 a 4 metros: quantas polegadas escolher para a sua sala e quando vale ir maior ou menor.",
+  "link": "https://escolhatv.com.br/tamanho-ideal-de-tv-pela-distancia-do-sofa/",
+  "board": "TVs e Decoração de Sala",
+  "status": "pendente"
+ },
+ {
+  "id": "tech-placa-de-video",
+  "site": "tech",
+  "layout": "foto",
+  "ptitle": "As 7 placas de vídeo com melhor custo-benefício",
+  "pdesc": "Ranking das placas de vídeo com melhor custo-benefício: RX 9060 XT, RX 7600, RX 9070 XT, RTX 5060 e mais. Saiba escolher por resolução, VRAM, fonte e espaço no gabinete.",
+  "link": "https://marcolizando.com.br/melhor-placa-de-video-custo-beneficio/",
+  "board": "Setup, Gadgets e Tecnologia",
+  "status": "pendente"
+ },
+ {
+  "id": "tech-ranking-headsets",
+  "site": "tech",
+  "layout": "lista",
+  "ptitle": "Os melhores headsets gamer",
+  "pdesc": "Ranking dos melhores headsets gamer: HyperX Cloud III S Wireless, HyperX Cloud III, Fallen Morcego Pro, Fallen Pantera e Mchose V9 Pro. Com fio ou sem fio, veja como escolher.",
+  "link": "https://marcolizando.com.br/melhores-headsets-gamer/",
+  "board": "Setup, Gadgets e Tecnologia",
+  "status": "pendente"
+ },
+ {
+  "id": "tech-cabos-setup",
+  "site": "tech",
+  "layout": "dica",
+  "ptitle": "Como organizar os cabos da mesa do setup",
+  "pdesc": "Guia para organizar os cabos da mesa do setup: planejamento, ponto central embaixo da mesa, caminhos dos cabos, ferramentas que funcionam e cuidados com a segurança elétrica.",
+  "link": "https://marcolizando.com.br/como-organizar-os-cabos-da-mesa-do-setup/",
+  "board": "Setup, Gadgets e Tecnologia",
+  "status": "pendente"
+ }
+]

@@ -1,4 +1,17 @@
 {
- "tv": {"dominio": "escolhatv.com.br", "desde": "2026-11-05", "obs": "link bloqueado como possível spam no Pinterest; pedido de revisão não concluído (chat do Pinterest com erro em 05/11)"},
- "tech": {"dominio": "marcolizando.com.br", "desde": "2026-11-05", "obs": "link bloqueado como possível spam no Pinterest; pedido de revisão não concluído (chat do Pinterest com erro em 05/11)"}
+ "tv": {
+  "dominio": "escolhatv.com.br",
+  "desde": "2026-11-05",
+  "obs": "link bloqueado como possível spam no Pinterest; pedido de revisão não concluído (chat do Pinterest com erro em 05/11)"
+ },
+ "tech": {
+  "dominio": "marcolizando.com.br",
+  "desde": "2026-11-05",
+  "obs": "link bloqueado como possível spam no Pinterest; pedido de revisão não concluído (chat do Pinterest com erro em 05/11)"
+ },
+ "cafe": {
+  "dominio": "viciadoemcafe.com.br",
+  "desde": "2026-11-06",
+  "obs": "link bloqueado como possível spam no Pinterest ao salvar cafe-ranking-expresso em 06/11"
+ }
 }

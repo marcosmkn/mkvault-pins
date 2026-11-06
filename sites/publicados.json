@@ -103,7 +103,10 @@
   "pdesc": "Ranking das placas de vídeo com melhor custo-benefício: RX 9060 XT, RX 7600, RX 9070 XT, RTX 5060 e mais. Saiba escolher por resolução, VRAM, fonte e espaço no gabinete.",
   "link": "https://marcolizando.com.br/melhor-placa-de-video-custo-beneficio/",
   "board": "Setup, Gadgets e Tecnologia",
-  "status": "pendente"
+  "status": "sem_link",
+  "data": "2026-11-06",
+  "pin_url": "https://br.pinterest.com/pin/848787861067327763/",
+  "obs": "publicado sem link; adicionar o link quando o domínio liberar"
  },
  {
   "id": "tech-ranking-headsets",

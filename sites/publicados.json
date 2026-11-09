@@ -103,8 +103,10 @@
   "pdesc": "Tabela de tamanho de TV pela distância do sofá, de 1 a 4 metros: quantas polegadas escolher para a sua sala e quando vale ir maior ou menor.",
   "link": "https://escolhatv.com.br/tamanho-ideal-de-tv-pela-distancia-do-sofa/",
   "board": "TVs e Decoração de Sala",
-  "status": "pendente",
-  "obs": "bloqueado como possível spam em 05/11 (tentar de novo depois)"
+  "status": "sem_link",
+  "obs": "publicado sem link; adicionar o link quando o domínio liberar",
+  "data": "2026-11-09",
+  "pin_url": "https://br.pinterest.com/pin/848787861067386581/"
  },
  {
   "id": "tech-placa-de-video",

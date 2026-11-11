@@ -159,5 +159,15 @@
   "obs": "publicado sem link; adicionar o link quando o domínio liberar",
   "data": "2026-11-11",
   "pin_url": "https://br.pinterest.com/pin/848787861067412065/"
+ },
+ {
+  "id": "btu-inverter-vale-a-pena",
+  "site": "btu",
+  "layout": "foto",
+  "ptitle": "Ar-condicionado Inverter vale a pena? Veja quando compensa",
+  "pdesc": "Descubra se o ar-condicionado Inverter vale a pena para você: para quem usa com frequência, a economia de energia tende a pagar a diferença de preço. Veja também quando a resposta é não.",
+  "link": "https://calculabtu.com.br/blog/ar-condicionado-inverter-vale-a-pena/",
+  "board": "Ar-Condicionado: Dicas, BTUs e Economia",
+  "status": "pendente"
  }
 ]

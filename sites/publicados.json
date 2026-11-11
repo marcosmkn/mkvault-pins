@@ -155,7 +155,9 @@
   "pdesc": "Vertuo Pop ou Essenza Mini? Compare as duas Nespresso de entrada: tamanhos de bebida, custo das cápsulas e voltagem, e descubra qual cafeteira escolher para o seu perfil.",
   "link": "https://viciadoemcafe.com.br/vertuo-pop-ou-essenza-mini/",
   "board": "Café em Casa: Receitas e Cafeteiras",
-  "status": "pendente",
-  "obs": "2026-11-10 19h23: não publicado, extensão Claude in Chrome não conectada; publicar sem link (café bloqueado) na próxima execução"
+  "status": "sem_link",
+  "obs": "publicado sem link; adicionar o link quando o domínio liberar",
+  "data": "2026-11-11",
+  "pin_url": "https://br.pinterest.com/pin/848787861067412065/"
  }
 ]

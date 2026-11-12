@@ -185,5 +185,15 @@
   "data": "2026-11-11",
   "pin_url": "https://br.pinterest.com/pin/848787861067419286/",
   "obs": "publicado sem link; adicionar o link quando o domínio liberar"
+ },
+ {
+  "id": "tech-g203-vs-cobra",
+  "site": "tech",
+  "layout": "foto",
+  "ptitle": "Logitech G203 ou Redragon Cobra M711: qual mouse gamer comprar?",
+  "pdesc": "Comparativo de mouse gamer: Logitech G203 LIGHTSYNC (85 g, até 8.000 DPI, 6 botões) x Redragon Cobra M711 (até 12.400 DPI, 8 botões). Veja qual escolher pela sua pegada e pelo seu jeito de jogar.",
+  "link": "https://marcolizando.com.br/analises/logitech-g203-ou-redragon-cobra-m711/",
+  "board": "Setup, Gadgets e Tecnologia",
+  "status": "pendente"
  }
 ]
